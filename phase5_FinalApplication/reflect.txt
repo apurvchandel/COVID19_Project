@@ -1,0 +1,14 @@
+-----------------------------------------------------------
+I have done all the coding by myself and only copied the code
+that my professor provided to complete my workshops and assignments.
+
+Name: Lilian Shi
+Email: lshi53@myseneca.ca
+ID: 109261206
+Date: 12/03/2020
+----------------------------------------------------------- */
+
+Here comes the end of this semester. Apparently, OOP244 is leveled up compare to IPC144. We studied objected oriented programming with C++ language, as well as dynamic memory allocation and deallocation for better programming efficiency. Overall, I consider myself have understood most of the topics taught this semester, the three primary concepts of object oriented programming: encapsulation, inheritance and polymorphism. But for sure there is always something that needs more practice and deep learning.
+The final project gives us progressive challenges, I found milestone 1 to 4 are relatively easy to complete. However, the final milestone is pretty challenging. Not only because it combines all previous modules, but also it includes file reading and file printing which is one of my weak points. When it comes to the final debugging stage, I learned that it always doubles efficiency if we could use the debugging tool and try to step into every single step, look for how the compiler work on my own code lines, it helps me to quickly find out where the problem lies.
+In terms of the learning experience, I would say Professor Liu is a very knowledgeable professor and knows how to explain the foundations in an easier way. If there is one thing that might be improved, I would say the course notes are relatively hard to understand for non-English speakers. Hopefully one day the course notes website could update to easier terms of explaining professional definitions.
+I am looking forward to learning more about C++ programming next semester!
